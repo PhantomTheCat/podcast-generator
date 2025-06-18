@@ -6,7 +6,7 @@ python3.10 \
 python3-pip \
 git \
 python3-yaml \
-python3-venv # Ensure virtual environments can be created
+python3-venv
 
 # Create a virtual environment
 RUN python3 -m venv /venv
