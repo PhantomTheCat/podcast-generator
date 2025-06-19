@@ -1,6 +1,6 @@
-name: "Podcast Generator"
+name: "Generic Podcast Generator"
 author: "Aiden McCallum"
-description: "Generates a feed for a podcast from a YAML file"
+description: "Generates a feed for a podcast from a YAML file. Developed from a GitHub Certificate Course as well"
 runs:
   using: "docker"
   image: "Dockerfile"
